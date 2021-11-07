@@ -7,7 +7,7 @@
 :house_with_garden: I’m from Recife, Pernambuco, Brazil.
 
 [![MEDucaM GitHub stats](https://github-readme-stats.vercel.app/api?username=MEDucaM&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDucaM&layout=compact)](https://github.com/MEDucaM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDucaM&langs_count=8)](https://github.com/MEDucaM/github-readme-stats)
 
 
 ## About me
