@@ -15,4 +15,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-duca-m)](https://www.linkedin.com/in/eduarda-duca-m)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-duca-m)](https://www.linkedin.com/in/eduarda-duca-m)
 
-[![HTML Badge](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML Badge](ttps://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
